@@ -25,7 +25,7 @@ const View = () => {
       appId={appId}
       src={'https://francium.io/app/'}
       title="DeFi Yield Strategy Platform"
-      wallet={window.sentre.wallet}
+      wallet={window.sentre.solana}
     />
   )
 }
